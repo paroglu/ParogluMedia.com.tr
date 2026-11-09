@@ -1,0 +1,7 @@
+ParogluMedia V14 — Beyaz logo kutusu düzeltmesi
+
+SADECE index.html dosyasını GitHub reposunun kökünde mevcut dosya ile değiştirin.
+Bu dosya gönderdiğiniz şeffaf 5K logoyu zaten içinde barındırır.
+Header, açılış animasyonu ve footer alanındaki beyaz CSS levha ve border/padding kaldırıldı.
+Orijinal logo pikselleri ve diğer site sahneleri değiştirilmedi.
+Yükledikten sonra GitHub Pages yayını tamamlandığında Safari gizli sekmesinde kontrol edin.
