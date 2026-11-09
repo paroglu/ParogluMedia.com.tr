@@ -1,0 +1,6 @@
+SADECE index.html DOSYASINI GUNCELLE
+
+GitHub repository ana dizinindeki index.html dosyasini bu dosya ile degistirip commit et.
+Logo artik HTML icine gomuludur. Diger PNG, MP4 veya klasorleri yeniden yuklemene gerek yok.
+Safari: yeni sekmede ac veya gizli sekmede kontrol et, gerekirse onbellegi yenile.
+Not: Bu, kullanicinin canli GitHub sitesinde dogrudan degisiklik yapmaz.
