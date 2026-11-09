@@ -1,7 +1,6 @@
-ParogluMedia V14 — Beyaz logo kutusu düzeltmesi
+ParogluMedia V14 — paroglu BEYAZ, media MOR.
 
-SADECE index.html dosyasını GitHub reposunun kökünde mevcut dosya ile değiştirin.
-Bu dosya gönderdiğiniz şeffaf 5K logoyu zaten içinde barındırır.
-Header, açılış animasyonu ve footer alanındaki beyaz CSS levha ve border/padding kaldırıldı.
-Orijinal logo pikselleri ve diğer site sahneleri değiştirilmedi.
-Yükledikten sonra GitHub Pages yayını tamamlandığında Safari gizli sekmesinde kontrol edin.
+GitHub icin SADECE index.html dosyasini mevcut repo kokundeki index.html ile degistir.
+Logo index.html dosyasinin icinde; baska gorsel yuklemen gerekmez.
+Dilersen ayri PNG dosyasini da kullanabilirsin (tamamen seffaf).
+Video, diger sahneler ve baglantilar degismedi.
