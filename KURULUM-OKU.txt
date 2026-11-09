@@ -1,0 +1,17 @@
+PAROGLUMEDIA V15 — BOZULMA ONARIMI
+
+NEDEN: Önceki V15 paketinde stil/animasyon kodu ve çok sayıda görsel farklı dosyalardaydı. GitHub'a bu dosyalar doğru klasör yapısında konmazsa site ciddi şekilde bozulur.
+
+BU PAKET:
+- index.html: BÜTÜN V15 CSS ve JS kodu + avatar, proje önizlemeleri ve küçük telefon videoları içinde gömülü.
+- media/hero-desktop.mp4 ve media/hero-mobile.mp4: girişteki mevcut videolar.
+- robots.txt, sitemap.xml, og-preview.jpg: yayın dosyaları.
+
+GITHUB'A YÜKLE:
+1. ZIP'i aç. index.html dosyasını repo ana dizinindeki mevcut index.html ile değiştir.
+2. media içindeki iki giriş videosunu repo/media/ klasörüne yükle veya daha önce varsa olduğu gibi bırak.
+3. robots.txt, sitemap.xml ve og-preview.jpg dosyalarını repo ana dizinine yükle.
+4. 1-2 dakika sonra Safari'de yenile; gerekirse özel sekmeden açarak önbelleği bypass et.
+5. Eski assets/pm-v15.css ve assets/pm-v15.js dosyaları kalsa da artık kullanılmıyor. Silmen şart değil.
+
+SINIR: Yeni 15–20 saniyelik sinematik film henüz çekilmedi; mevcut giriş videoları korunuyor. Paroglu AI gerçek sunucu bağlantısı olmadan demo modundadır.
