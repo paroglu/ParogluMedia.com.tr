@@ -1,3 +1,9 @@
+# DÜZELTME BİLGİSİ
+
+**GitHub Pages üzerinde CSS dosyası eksik görünümünü önleyen hızlı onarım sürümü.** Bu paketteki `index.html` stil/JS/görselleri kendi içinde taşır. İki video `media/` klasöründedir. Ayrıntılar: `GITHUB_SORUN_GIDERME.md`.
+
+---
+
 # ParogluMedia V14 — GitHub Pages kaynak projesi
 
 **Ana slogan:** Görünen değil, hatırlanan işler üretiyoruz.
