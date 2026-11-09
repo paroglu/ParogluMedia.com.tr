@@ -1,8 +1,24 @@
-PAROGLUMEDIA V14 — ORİJİNAL 5K LOGO DÜZELTMESİ
+PAROGLUMEDIA V14 — İLETİŞİM + SEO GÜNCELLEMESİ
 
-1. GitHub Pages projenizdeki mevcut index.html dosyasının yedeğini alın.
-2. Bu paketteki index.html ile GitHub deposunun kökündeki index.html dosyasını değiştirin.
-3. Commit changes yapın, Pages yayınını bekleyin ve Safari’de sayfayı yenileyin.
+BU ZIP SADECE DEĞİŞEN 4 YAYIN DOSYASINI İÇERİR:
+- index.html (mevcut dosyayı değiştir)
+- og-preview.jpg (GitHub repo köküne ekle)
+- robots.txt (repo köküne ekle veya varsa güncelle)
+- sitemap.xml (repo köküne ekle veya varsa güncelle)
 
-Bu sürümde 5000×2536 şeffaf PNG logonun ORİJİNAL piksel verisi index.html içine gömülüdür. Header, açılış ve footer aynı görseli kullanır. Ayrıca aynı logodan sekme simgesi oluşturuldu. Ayrı PNG yükleme zorunluluğu yoktur.
-Giriş videolarının ve diğer site materyallerinin yolları değiştirilmedi.
+Hepsi GitHub Pages yayınının bulunduğu aynı kök klasörde olmalıdır.
+Hero videolarını ve diğer media/assets dosyalarını yeniden yüklemene gerek yok.
+
+İLETİŞİM:
+- Teklif özetleme formu bilgi göndermez; bu açıkça belirtilir.
+- Kullanıcı özeti kopyalayıp https://www.instagram.com/iamparoglu/ profilinden mesaj gönderebilir.
+- Gerçek WhatsApp numarası ve AI sunucusu eklenmedi. Yanlış yönlendirme yapılmaz.
+
+SEO:
+- noindex/nofollow kaldırıldı.
+- Canonical, OG, Twitter kartları, robot/sitemap eklendi.
+- Site URL: https://paroglu.github.io/ . İleride özel alan adı kullanılırsa
+  canonical, OG linkleri, sitemap URL'leri ve robots güncellenmelidir.
+- Google'da görünme anında garanti edilmez; indeksleme zaman alır.
+
+NOT: Mevcut sitenin canlı haline otomatik dokunulmadı.

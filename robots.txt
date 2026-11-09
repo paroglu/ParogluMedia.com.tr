@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /
-# Preview stage: allow indexing only after all sample data is replaced.
+Allow: /
+
+Sitemap: https://paroglu.github.io/sitemap.xml
