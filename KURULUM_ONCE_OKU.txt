@@ -1,0 +1,31 @@
+PAROGLUMEDIA — KONSER & SAHNE PORTFÖYÜ
+=========================================
+Bu paket yeni bir bağımsız konser portföy sayfasıdır. Mevcut ana sitenin index.html dosyasını DEĞİŞTİRMEZ.
+
+KULLANIM
+1. ZIP dosyasını cihazında çıkar.
+2. İçindeki 'konserler' klasörünü, içindeki index.html ve media dosyalarıyla birlikte GitHub Pages deposunun KÖK klasörüne yükle.
+3. Beklenen adres: https://paroglu.github.io/konserler/
+4. Ana sitendeki Projeler bölümüne bağlantı eklemek için:
+   <a href="/konserler/">Konser &amp; Sahne Prodüksiyonları</a>
+5. Ana sayfadaki bölümün linkini bu adrese bağlayabilirsin. Mevcut siten ayrı olduğu için onun dosyası bu paketle değiştirilmedi.
+
+PAKETTE NE VAR?
+- 5 gerçek sanatçı bölümü: Sefo, Gökhan Türkmen, Dedublüman, Poizi, Hakan Peker
+- Arşivdeki 30 orijinal konser fotoğrafı
+- 8 orijinal video: 4 kısa seçki + 4 uzun video
+- Büyütülebilen fotoğraf galerileri
+- Gerçek, oynatılabilir dikey videolar (otomatik başlamaz)
+- Yalnızca gerçek fotoğrafların kullanıldığı açılış
+- Sayfada yapay zekâ ile üretilmiş kapak, afiş veya temsili sanatçı fotoğrafı YOKTUR
+- Eski arşivde bulunan afiş/kapak tasarımları PAKETE DAHİL EDİLMEDİ
+
+TEKNİK
+- Dosya yolları görecelidir: index.html ve media/ aynı konserler klasöründe tutulmalı.
+- Tüm CSS ve JavaScript index.html içindedir; harici JavaScript veya font CDN bağımlılığı yoktur.
+- Videolar orijinal 512x910 çözünürlüktedir, büyütülmedi.
+- Tüm medyalar kullanıcı tarafından sağlanan arşivden alındı; yapay zekâ görseli üretilmedi.
+- Gerçek kişilerin, eserlerin ve konser görüntülerinin yayın hakkı / izinleri yayın öncesinde kullanıcı tarafından doğrulanmalıdır.
+- İçerikte proje rolü ya da ajans kredisi iddiası yer almaz; bunlar doğrulanınca eklenebilir.
+
+NOT: GitHub'a ZIP'i olduğu gibi yüklersen sayfa açılmaz. ZIP'i ÇIKARIP klasör yapısını koruyarak yüklemelisin.
